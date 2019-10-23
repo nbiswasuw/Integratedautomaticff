@@ -1,0 +1,9 @@
+E:\FFWS\Programs\StructureFF\StructureFF\bin\Debug\StructureFF.exe
+E:\FFWS\Programs\StructureFF\StructureFF\bin\Debug\StructureFF.pdb
+E:\FFWS\Programs\StructureFF\StructureFF\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FFWS\Programs\StructureFF\StructureFF\obj\x86\Debug\StructureFF.Form1.resources
+E:\FFWS\Programs\StructureFF\StructureFF\obj\x86\Debug\StructureFF.Properties.Resources.resources
+E:\FFWS\Programs\StructureFF\StructureFF\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FFWS\Programs\StructureFF\StructureFF\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FFWS\Programs\StructureFF\StructureFF\obj\x86\Debug\StructureFF.exe
+E:\FFWS\Programs\StructureFF\StructureFF\obj\x86\Debug\StructureFF.pdb

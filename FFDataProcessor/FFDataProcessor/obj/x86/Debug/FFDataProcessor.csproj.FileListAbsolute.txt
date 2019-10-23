@@ -1,0 +1,3 @@
+G:\FFDataProcessor\FFDataProcessor\FFDataProcessor\obj\x86\Debug\FFDataProcessor.Form1.resources
+G:\FFDataProcessor\FFDataProcessor\FFDataProcessor\obj\x86\Debug\FFDataProcessor.Properties.Resources.resources
+G:\FFDataProcessor\FFDataProcessor\FFDataProcessor\obj\x86\Debug\FFDataProcessor.csproj.GenerateResource.Cache

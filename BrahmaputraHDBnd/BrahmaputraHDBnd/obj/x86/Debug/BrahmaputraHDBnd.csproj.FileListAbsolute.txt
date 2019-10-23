@@ -1,0 +1,5 @@
+E:\FFWS\Programs\BrahmaputraHDBnd\BrahmaputraHDBnd\bin\Debug\BrahmaputraHDBnd.exe
+E:\FFWS\Programs\BrahmaputraHDBnd\BrahmaputraHDBnd\bin\Debug\BrahmaputraHDBnd.pdb
+E:\FFWS\Programs\BrahmaputraHDBnd\BrahmaputraHDBnd\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FFWS\Programs\BrahmaputraHDBnd\BrahmaputraHDBnd\obj\x86\Debug\BrahmaputraHDBnd.exe
+E:\FFWS\Programs\BrahmaputraHDBnd\BrahmaputraHDBnd\obj\x86\Debug\BrahmaputraHDBnd.pdb

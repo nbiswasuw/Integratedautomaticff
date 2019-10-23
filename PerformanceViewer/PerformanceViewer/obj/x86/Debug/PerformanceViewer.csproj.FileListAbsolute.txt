@@ -1,0 +1,9 @@
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\bin\Debug\PerformanceViewer.exe
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\bin\Debug\PerformanceViewer.pdb
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\obj\x86\Debug\PerformanceViewer.Form1.resources
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\obj\x86\Debug\PerformanceViewer.Properties.Resources.resources
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\obj\x86\Debug\PerformanceViewer.exe
+E:\FFWS\Programs\PerformanceViewer\PerformanceViewer\obj\x86\Debug\PerformanceViewer.pdb

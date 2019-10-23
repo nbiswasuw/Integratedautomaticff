@@ -1,0 +1,5 @@
+E:\FFWS\Programs\ResultAnalysis\ResultAnalysis\bin\Debug\ResultAnalysis.exe
+E:\FFWS\Programs\ResultAnalysis\ResultAnalysis\bin\Debug\ResultAnalysis.pdb
+E:\FFWS\Programs\ResultAnalysis\ResultAnalysis\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FFWS\Programs\ResultAnalysis\ResultAnalysis\obj\x86\Debug\ResultAnalysis.exe
+E:\FFWS\Programs\ResultAnalysis\ResultAnalysis\obj\x86\Debug\ResultAnalysis.pdb

@@ -1,0 +1,16 @@
+E:\FFWS\FFWS\bin\Release\GBMStationRF.mdf
+E:\FFWS\FFWS\bin\Release\GBMStationRF_log.LDF
+E:\FFWS\FFWS\bin\Release\FFWS.exe.config
+E:\FFWS\FFWS\bin\Release\FFWS.exe
+E:\FFWS\FFWS\bin\Release\FFWS.pdb
+E:\FFWS\FFWS\obj\x86\Release\FFWS.Form1.resources
+E:\FFWS\FFWS\obj\x86\Release\FFWS.Properties.Resources.resources
+E:\FFWS\FFWS\obj\x86\Release\FFWS.csproj.GenerateResource.Cache
+E:\FFWS\FFWS\obj\x86\Release\RdlCompile.cache
+E:\FFWS\FFWS\obj\x86\Release\RdlCompile.compiled
+E:\FFWS\FFWS\obj\x86\Release\FFWS.exe
+E:\FFWS\FFWS\obj\x86\Release\FFWS.pdb
+E:\FFWS\FFWS\obj\x86\Release\FFWS.csprojResolveAssemblyReference.cache
+E:\FFWS\FFWS\obj\x86\Release\ResolveAssemblyReference.cache
+E:\FFWS\FFWS\obj\x86\Release\GenerateResource.read.1.tlog
+E:\FFWS\FFWS\obj\x86\Release\GenerateResource.write.1.tlog

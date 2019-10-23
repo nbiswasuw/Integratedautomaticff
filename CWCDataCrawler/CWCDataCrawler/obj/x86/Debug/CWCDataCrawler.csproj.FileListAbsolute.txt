@@ -1,0 +1,6 @@
+E:\FFWS\Programs\CWCDataCrawler\CWCDataCrawler\bin\Debug\CWCDataCrawler.exe
+E:\FFWS\Programs\CWCDataCrawler\CWCDataCrawler\bin\Debug\CWCDataCrawler.pdb
+E:\FFWS\Programs\CWCDataCrawler\CWCDataCrawler\bin\Debug\HtmlAgilityPack.dll
+E:\FFWS\Programs\CWCDataCrawler\CWCDataCrawler\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FFWS\Programs\CWCDataCrawler\CWCDataCrawler\obj\x86\Debug\CWCDataCrawler.exe
+E:\FFWS\Programs\CWCDataCrawler\CWCDataCrawler\obj\x86\Debug\CWCDataCrawler.pdb

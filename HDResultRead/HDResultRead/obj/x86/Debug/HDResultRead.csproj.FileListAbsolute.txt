@@ -1,0 +1,10 @@
+G:\WRP_HDResult\Program\HDResultRead\HDResultRead\obj\x86\Debug\HDResultRead.csprojResolveAssemblyReference.cache
+G:\WRP_HDResult\Program\HDResultRead\HDResultRead\bin\Debug\HDResultRead.exe
+G:\WRP_HDResult\Program\HDResultRead\HDResultRead\bin\Debug\HDResultRead.pdb
+G:\WRP_HDResult\Program\HDResultRead\HDResultRead\obj\x86\Debug\HDResultRead.exe
+G:\WRP_HDResult\Program\HDResultRead\HDResultRead\obj\x86\Debug\HDResultRead.pdb
+E:\FFWS\Programs\HDResultRead\HDResultRead\obj\x86\Debug\HDResultRead.exe
+E:\FFWS\Programs\HDResultRead\HDResultRead\obj\x86\Debug\HDResultRead.pdb
+E:\FFWS\Programs\HDResultRead\HDResultRead\bin\Debug\HDResultRead.exe
+E:\FFWS\Programs\HDResultRead\HDResultRead\bin\Debug\HDResultRead.pdb
+E:\FFWS\Programs\HDResultRead\HDResultRead\obj\x86\Debug\ResolveAssemblyReference.cache
